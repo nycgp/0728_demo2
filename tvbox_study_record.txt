@@ -1,0 +1,16 @@
+中文名称：魔百盒cm311-1a_CH  (基于广东版)
+model: CM311-1a_CH
+chip: s905l3a
+ARMbian messsage:
+s905l3a	|| E900V22C/D, CM311-1a-YST, M401A, M411A, UNT403A, UNT413A, ZTE-B863AV3.2-M, **CM311-1a-CH**, IP112H  All || amlogic_s905l3a.img
+
+following is CM311-1a_CH线刷可救砖包教程及下载web site reference:
+https://www.znds.com/tv-1233545-1-1.html
+
+
+bilibili 参考视频 刷android TV 固件 & 刷armbian :
+
+https://www.bilibili.com/video/BV16d4y1x7Df/?vd_source=534caf5cf81c14978ee8cefb19de3ab9
+
+
+
